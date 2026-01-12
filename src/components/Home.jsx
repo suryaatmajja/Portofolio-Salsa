@@ -48,7 +48,7 @@ const Hero = () => {
           <div className="relative">
             <div className="w-72 h-72 sm:w-96 sm:h-96 rounded-full overflow-hidden border-4 border-[#B98B5B]">
               <img
-                src="/public/Assets/foto.jpg"
+                src="/Assets/foto.jpg"
                 alt="Salsa"
                 className="w-full h-full object-cover"
               />

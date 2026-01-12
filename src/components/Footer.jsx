@@ -14,11 +14,7 @@ const Footer = () => {
           className="flex items-center gap-3 w-full md:w-1/4 mb-10 md:mb-0"
         >
           <div className="w-10 h-10 flex items-center justify-center">
-            <img
-              src="/public/Assets/Logo.png"
-              alt="Logo"
-              className="object-contain"
-            />
+            <img src="/Assets/Logo.png" alt="Logo" className="object-contain" />
           </div>
           <span className="font-bold text-xl text-[#2E2E2E]">Salsa</span>
         </a>

@@ -14,7 +14,7 @@ const Navbar = () => {
         <a href="#Home">
           <div className="flex items-center gap-2">
             <div className="w-9 h-9 flex items-center justify-center">
-              <img src="/public/Assets/Logo.png" alt="Logo" />
+              <img src="/Assets/Logo.png" alt="Logo" />
             </div>
             <span className="font-semibold text-lg text-[#2E2E2E]">Salsa</span>
           </div>
