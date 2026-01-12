@@ -28,7 +28,7 @@ const Hero = () => {
 
             {/* Link untuk Download CV */}
             <a
-              href="/Assets/cv/cv-salsa.pdf"
+              href="/cv/cv-salsa.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="md:px-7 md:py-3 px-3 py-2 rounded-full bg-[#C8A951] hover:bg-[#a08740] text-white font-medium 
